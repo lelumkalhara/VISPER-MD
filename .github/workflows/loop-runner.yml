@@ -22,7 +22,7 @@ jobs:
       - name: Run Bot (loop & auto-restart if crash)
         run: |
           echo "Running Queen Anju bot in auto-restart mode..."
-          timeout 18000 bash -c 'while true; do node start.js || echo "Bot crashed, restarting..."; sleep 2; done'
+          timeout 18000 bash -c 'while true; do node index.js || echo "Bot crashed, restarting..."; sleep 2; done'
 
       - name: Re-Trigger Workflow
         if: always()
