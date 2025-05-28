@@ -11,7 +11,7 @@
     "@adiwajshing/keyed-db": "latest",
     "@ffmpeg-installer/ffmpeg": "latest",
     "axios": "latest",
-    "darksadas-new-baliyes": "latest",
+    "darksadas-new-baliyes": "github:MR-LAKIYA/Baileys",
     "buffer": "latest",
      "translate-google-api": "latest",
      "javascript-obfuscator": "latest",
