@@ -1,0 +1,19 @@
+{
+    "bot-name": "VISPER-MD",
+    "description": "A Whatsapp user bot",
+    "logo": "https://mv-visper-full-db.pages.dev/Data/visper_main.jpeg",
+    "keywords": ["bot"],
+    "documentation-link": "https://session.talkdrove.com",
+    "owner-verification":"talkdrove@gmail.com",
+  
+    "env": {
+      "SESSION_ID": {
+        "description": "Put your SESSION_ID here",
+        "value":"",
+        "required": true
+        
+      }
+     
+    }
+  
+  }

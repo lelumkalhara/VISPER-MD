@@ -11,7 +11,7 @@
     "@adiwajshing/keyed-db": "latest",
     "@ffmpeg-installer/ffmpeg": "latest",
     "axios": "latest",
-    "darksadas-new-baliyes": "latest",
+    "darksadas-new-baliyes": "npm:sadas-power",
     "buffer": "latest",
      "translate-google-api": "latest",
      "javascript-obfuscator": "latest",
@@ -23,6 +23,7 @@
       "adm-zip": "latest",
     "file_size_url": "1.0.4",
     "form-data": "latest",
+     "jimp": "^0.16.1",
     "fs-extra": "latest",
     "g-i-s": "^2.1.6",
     "google-tts-api": "latest",
@@ -44,7 +45,7 @@
     "sadasytsearch": "latest",
     "seedr": "latest",
     "sequelize": "latest",
-    "sharp": "0.32.6",
+    "sharp": "^0.34.1",
     "wa-sticker-formatter": "^4.3.2",
     "ytsearch-venom": "latest"
   }
