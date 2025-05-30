@@ -1,4 +1,4 @@
-name: Queen Anju Bot Loop Runner
+name: Anjana Bot Loop Runner
 
 on:
   workflow_dispatch:
